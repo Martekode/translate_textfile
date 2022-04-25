@@ -99,3 +99,6 @@ a {
     opacity: .7;
     padding: 10%;
   }
+  #smallerBanner{
+      max-width: 30%;
+  }
