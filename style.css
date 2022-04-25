@@ -16,3 +16,10 @@ body{
 .village{
     color: darkviolet;
 }
+header :last-child{
+    background-color: yellow;
+}
+header p{
+    width: 20%;
+    text-align: center;
+}
