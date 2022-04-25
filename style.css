@@ -66,9 +66,20 @@ header{
     border-radius: 5px;
     color: rgba(255, 255, 255, 0.799);
     padding: 1%;
-    width: auto;
+    max-width: 50%;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
 #bannerh2{
-    margin-left: 36%;
+    margin-left:40%;
+    margin-right: 5%;
+ 
+    
+}
+.bannerOther{
+    margin-left: 45%;
+    max-width: 50%;
+    margin-right: 10%;
     text-align: center;
 }
