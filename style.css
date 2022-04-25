@@ -6,9 +6,11 @@ body{
 }
 .good{
     color: green;
+    text-transform: capitalize;
 }
 .bad{
     color: red;
+    text-transform: capitalize;
 }
 .farmer{
     color: darkgoldenrod;
