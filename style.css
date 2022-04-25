@@ -23,3 +23,13 @@ header p{
     width: 20%;
     text-align: center;
 }
+#first{
+    font-weight: bold;
+}
+.grey{
+    background-color:lightgrey;
+}
+table{
+    border: solid;
+    border-radius: 5px;
+}
