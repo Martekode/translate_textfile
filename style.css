@@ -7,3 +7,12 @@ body{
 .good{
     color: green;
 }
+.bad{
+    color: red;
+}
+.farmer{
+    color: darkgoldenrod;
+}
+.village{
+    color: darkviolet;
+}
